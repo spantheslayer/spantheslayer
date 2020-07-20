@@ -10,3 +10,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am lazy Guy 
 
+
+![](https://github-readme-stats.vercel.app/api?username=spantheslayer&show_icons=true&theme=merko)
