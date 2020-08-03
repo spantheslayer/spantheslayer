@@ -55,6 +55,13 @@
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <img align="left" alt="Supriyo Sarkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spantheslayer&show_icons=true&theme=merko" />
 
 [website]: spantheslayer.github.io
