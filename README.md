@@ -2,7 +2,7 @@
 
 ## I'm a FullStack JavaScript & Python Developer, and Student !
 
-- 🔭 I’m currently working on a [NotePad - SaveIt][https://github.com/spantheslayer/saveit]!
+- 🔭 I’m currently working on a [NotePad - SaveIt]([https://github.com/spantheslayer/saveit) !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and Sponsorship
 - 🥅 2020 Goals: Contribute more to Open Source projects and Mak usefull vids
