@@ -45,19 +45,13 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Create Awesome Github Portfolio | New Feature](https://www.youtube.com/watch?v=hEdQSWMZ51E)
 - [How To Create Neumorphism Styele Effect With CSS | HTML CSS Effects | 2020](https://www.youtube.com/watch?v=hKG9AWCQQQE)
 - [Cinematic Shot of Realme Earbuds (promo video)](https://www.youtube.com/watch?v=GIzyBrG1Sjc)
 - [Top 10 Latest CSS Effects 2020](https://www.youtube.com/watch?v=xPOv8DeQyDM)
-- [Awesome Glowing Hover Box Animation Using only  html & css](https://www.youtube.com/watch?v=2nXSiZxbc7s)
+- [Awesome Glowing Hover Box Animation Using only html & css](https://www.youtube.com/watch?v=2nXSiZxbc7s)
 <!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
