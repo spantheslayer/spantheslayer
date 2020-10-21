@@ -54,7 +54,7 @@
 
 ---
 
-<img align="left" alt="Supriyo Sarkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spantheslayer&show_icons=true&theme=merko" />
+<img align="left" alt="Supriyo Sarkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=spantheslayer&show_icons=true&theme=merko&count_private=true" />
 
 [website]: spantheslayer.github.io
 [twitter]: https://twitter.com/Spantheslayer
